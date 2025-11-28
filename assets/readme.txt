@@ -1,0 +1,1 @@
+Place your site logo at assets/logo.png (recommended 1024x1024 PNG). Replace assets/icon/app_icon.png with adaptive icon files for Android.
